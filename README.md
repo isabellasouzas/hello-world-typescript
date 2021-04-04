@@ -1,1 +1,1 @@
-# hello-world-tsc
+# hello-world-typescript
